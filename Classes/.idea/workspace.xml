@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="018bdf30-0085-41d8-8923-419b5ea16718" name="Changes" comment="" />
+    <list default="true" id="018bdf30-0085-41d8-8923-419b5ea16718" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Score/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Score2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Score2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Score/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Score/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -30,10 +39,12 @@
   "keyToString": {
     "Application.BankAccountTest.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Score.Main.executor": "Debug",
     "Application.StudentTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/DEV/JAVA_WORKS/Classes/src/src/Main.java",
     "project.structure.last.edited": "Project",
@@ -41,7 +52,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BankAccountTest">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAccount.BankAccountTest" />
       <module name="src" />
@@ -68,6 +79,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Score2.Main2" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Score2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Score.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Score.Main" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Score.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Student.StudentTest" />
       <module name="src" />
@@ -83,9 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Score.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BankAccountTest" />
         <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

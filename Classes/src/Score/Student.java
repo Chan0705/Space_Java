@@ -20,6 +20,13 @@ public class Student {
         korean.setScore(score);
     }
 
+    // 수학 점수 설정 메서드
+    public void setMathSubject(String name, int score) {
+        math.setSubjectName(name);
+        math.setScore(score);
+    }
+
+
     // 학생 정보 출력 메서드
     public void showInfo(){
         System.out.println(
