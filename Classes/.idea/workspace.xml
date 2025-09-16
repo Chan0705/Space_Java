@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="guessNum" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="018bdf30-0085-41d8-8923-419b5ea16718" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Score/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Score2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Score2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arryas/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arryas/ArrayTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Score/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Score/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/production/src/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccount/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankAccount/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccount/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankAccount/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -26,39 +38,84 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="32OiJprOGpnUPFhjrMdOjJhXJWI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BankAccountTest.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Score.Main.executor": "Debug",
-    "Application.StudentTest.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/DEV/JAVA_WORKS/Classes/src/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnimalTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccountTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalendarTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DbTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandle1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandle2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GuessNum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.InputTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_0915.Lamda.lamda2.ConcatTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyFunk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyMathTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PaymentApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Polymorphism2.AnimalTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Score.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SeasonTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleToneStudy.CarTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmartTvCtrl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TvControll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/DEV/JAVA_WORKS/Classes/src&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/DEV/JAVA_WORKS/Classes/src/lib/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BankAccount.BankAccountTest" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\JAVA_WORKS\Classes\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exception" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DbTest">
+    <configuration name="ConcatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface_0915.Lamda.interface_impl.ConcatTest" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BankAccount.*" />
+          <option name="PATTERN" value="Interface_0915.Lamda.interface_impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Student.Main" />
+    <configuration name="DbTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.DbTest" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Student.*" />
+          <option name="PATTERN" value="JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Score2.Main2" />
+    <configuration name="Interface_0915.Lamda.lamda2.ConcatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface_0915.Lamda.lamda2.ConcatTest" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Score2.*" />
+          <option name="PATTERN" value="Interface_0915.Lamda.lamda2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Score.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Score.Main" />
+    <configuration name="MyFunk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface_0915.Lamda.MyFunk" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Score.*" />
+          <option name="PATTERN" value="Interface_0915.Lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Student.StudentTest" />
+    <configuration name="PaymentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Payment.PaymentApp" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Student.*" />
+          <option name="PATTERN" value="Payment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Score.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BankAccountTest" />
-        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.DbTest" />
+        <item itemvalue="Application.PaymentApp" />
+        <item itemvalue="Application.Interface_0915.Lamda.lamda2.ConcatTest" />
+        <item itemvalue="Application.ConcatTest" />
+        <item itemvalue="Application.MyFunk" />
       </list>
     </recent_temporary>
   </component>
@@ -137,5 +194,16 @@
       <updated>1757297951995</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lib/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
